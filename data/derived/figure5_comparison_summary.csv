@@ -1,7 +1,0 @@
-dataset,model,mean_absolute_difference_pp,max_absolute_difference_pp
-raw_exact_deduplicated,gpt_3_5,2.869125226,13.58661359
-raw_exact_deduplicated,gpt_4,0.4189736042,0.9998508973
-raw_recorded,gpt_3_5,2.935827893,13.70403471
-raw_recorded,gpt_4,0.4315149679,1.06416822
-upstream_cached_csv,gpt_3_5,2.913449411,13.54935634
-upstream_cached_csv,gpt_4,0.3389268133,0.9078399005
