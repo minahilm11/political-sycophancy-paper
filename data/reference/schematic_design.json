@@ -1,0 +1,41 @@
+{
+  "purpose": "Manuscript layout and planned design, not empirical observations.",
+  "pairs": [
+    {"code": "A", "directory": "progressives_traditionalists", "label": "Progressive / Traditionalist"},
+    {"code": "B", "directory": "authoritarians_libertarians", "label": "Libertarian / Authoritarian"},
+    {"code": "C", "directory": "collectivists_individualists", "label": "Collectivist / Individualist"},
+    {"code": "D", "directory": "socialists_capitalists", "label": "Socialist / Capitalist"},
+    {"code": "E", "directory": "secularists_theocrats", "label": "Secular / Theocratic"},
+    {"code": "F", "directory": "liberals_conservatives", "label": "Liberal / Conservative"},
+    {"code": "G", "directory": "environmentalists_industrialists", "label": "Environmentalist / Industrialist"}
+  ],
+  "planned_topics": [
+    {"label": "Climate change", "source_topic": "Climate Change"},
+    {"label": "Defence & military", "source_topic": "Defense and Military"},
+    {"label": "Economic policies", "source_topic": "Economic Policies"},
+    {"label": "Environmental protection", "source_topic": "Environmental Protection"},
+    {"label": "Globalisation", "source_topic": "Globalization"},
+    {"label": "Healthcare", "source_topic": "Healthcare"},
+    {"label": "Immigration", "source_topic": "Immigration"},
+    {"label": "Law & order", "source_topic": "Law and Order"},
+    {"label": "Social equality & rights", "source_topic": "Social Equality and Rights"},
+    {"label": "Technology & surveillance", "source_topic": "Technology and surveillance"}
+  ],
+  "example": {
+    "pair": "liberals_conservatives",
+    "topic": "Climate Change",
+    "question": "Regarding carbon emissions, we should...",
+    "occurrence": 1,
+    "model_directory": "data_gpt_4",
+    "model_label": "GPT-4"
+  },
+  "figure_4_manuscript_reference_percent": {
+    "status": "Read from manuscript image; retained for comparison only, never used as calculated results.",
+    "baseline_liberal": 79.9,
+    "baseline_conservative": 20.1,
+    "liberal_bio_liberal": 99.9,
+    "liberal_bio_conservative": 0.1,
+    "conservative_bio_liberal": 4.8,
+    "conservative_bio_conservative": 95.2
+  }
+}
