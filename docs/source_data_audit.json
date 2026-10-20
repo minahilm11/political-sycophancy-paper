@@ -1,0 +1,1643 @@
+{
+  "source_commit": "f300b11f75a2ffb57a0f5be3fb74d520bda717c3",
+  "pair_topics": {
+    "liberals_conservatives": [
+      "Climate Change",
+      "Defense and Military",
+      "Economic Policies",
+      "Globalization",
+      "Healthcare",
+      "Immigration",
+      "Law and Order",
+      "Media Freedom",
+      "Social Equality and Rights",
+      "Technology and surveillance"
+    ],
+    "collectivists_individualists": [
+      "Climate Change",
+      "Defense and Military",
+      "Economic Policies",
+      "Globalization",
+      "Healthcare",
+      "Immigration",
+      "Law and Order",
+      "Media Freedom",
+      "Social Equality and Rights",
+      "Technology and surveillance"
+    ],
+    "environmentalists_industrialists": [
+      "Climate Change",
+      "Economic Policies",
+      "Globalization",
+      "Transportation",
+      "Veganism"
+    ],
+    "socialists_capitalists": [
+      "Climate Change",
+      "Defense and Military",
+      "Economic Policies",
+      "Globalization",
+      "Healthcare",
+      "Immigration",
+      "Law and Order",
+      "Media Freedom",
+      "Social Equality and Rights",
+      "Technology and surveillance"
+    ],
+    "secularists_theocrats": [
+      "Climate Change",
+      "Defense and Military",
+      "Economic Policies",
+      "Globalization",
+      "Healthcare",
+      "Immigration",
+      "Law and Order",
+      "Media Freedom",
+      "Social Equality and Rights",
+      "Technology and surveillance"
+    ],
+    "authoritarians_libertarians": [
+      "Climate Change",
+      "Defense and Military",
+      "Economic Policies",
+      "Globalization",
+      "Healthcare",
+      "Immigration",
+      "Law and Order",
+      "Media Freedom",
+      "Social Equality and Rights",
+      "Technology and surveillance"
+    ],
+    "progressives_traditionalists": [
+      "Climate Change",
+      "Defense and Military",
+      "Economic Policies",
+      "Globalization",
+      "Healthcare",
+      "Immigration",
+      "Law and Order",
+      "Media Freedom",
+      "Social Equality and Rights",
+      "Technology and surveillance"
+    ]
+  },
+  "source": {
+    "datasets/liberals_conservatives/Climate Change.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 196
+    },
+    "datasets/liberals_conservatives/Defense and Military.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 196
+    },
+    "datasets/liberals_conservatives/Economic Policies.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 195
+    },
+    "datasets/liberals_conservatives/Globalization.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/liberals_conservatives/Healthcare.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 199
+    },
+    "datasets/liberals_conservatives/Immigration.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 195
+    },
+    "datasets/liberals_conservatives/Law and Order.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/liberals_conservatives/Media Freedom.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 196
+    },
+    "datasets/liberals_conservatives/Social Equality and Rights.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/liberals_conservatives/Technology and surveillance.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 196
+    },
+    "datasets/collectivists_individualists/Climate Change.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/collectivists_individualists/Defense and Military.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 180
+    },
+    "datasets/collectivists_individualists/Economic Policies.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/collectivists_individualists/Globalization.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/collectivists_individualists/Healthcare.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 197
+    },
+    "datasets/collectivists_individualists/Immigration.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 197
+    },
+    "datasets/collectivists_individualists/Law and Order.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/collectivists_individualists/Media Freedom.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 199
+    },
+    "datasets/collectivists_individualists/Social Equality and Rights.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 193
+    },
+    "datasets/collectivists_individualists/Technology and surveillance.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/environmentalists_industrialists/Climate Change.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/environmentalists_industrialists/Economic Policies.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/environmentalists_industrialists/Globalization.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/environmentalists_industrialists/Transportation.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 199
+    },
+    "datasets/environmentalists_industrialists/Veganism.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/socialists_capitalists/Climate Change.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/socialists_capitalists/Defense and Military.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/socialists_capitalists/Economic Policies.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 185
+    },
+    "datasets/socialists_capitalists/Globalization.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/socialists_capitalists/Healthcare.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 188
+    },
+    "datasets/socialists_capitalists/Immigration.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/socialists_capitalists/Law and Order.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 159
+    },
+    "datasets/socialists_capitalists/Media Freedom.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 199
+    },
+    "datasets/socialists_capitalists/Social Equality and Rights.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 197
+    },
+    "datasets/socialists_capitalists/Technology and surveillance.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 198
+    },
+    "datasets/secularists_theocrats/Climate Change.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/secularists_theocrats/Defense and Military.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 195
+    },
+    "datasets/secularists_theocrats/Economic Policies.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/secularists_theocrats/Globalization.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 123
+    },
+    "datasets/secularists_theocrats/Healthcare.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/secularists_theocrats/Immigration.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/secularists_theocrats/Law and Order.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/secularists_theocrats/Media Freedom.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/secularists_theocrats/Social Equality and Rights.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/secularists_theocrats/Technology and surveillance.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/authoritarians_libertarians/Climate Change.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/authoritarians_libertarians/Defense and Military.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/authoritarians_libertarians/Economic Policies.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/authoritarians_libertarians/Globalization.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/authoritarians_libertarians/Healthcare.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/authoritarians_libertarians/Immigration.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/authoritarians_libertarians/Law and Order.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/authoritarians_libertarians/Media Freedom.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/authoritarians_libertarians/Social Equality and Rights.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/authoritarians_libertarians/Technology and surveillance.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 199
+    },
+    "datasets/progressives_traditionalists/Climate Change.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 198
+    },
+    "datasets/progressives_traditionalists/Defense and Military.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/progressives_traditionalists/Economic Policies.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/progressives_traditionalists/Globalization.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 197
+    },
+    "datasets/progressives_traditionalists/Healthcare.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/progressives_traditionalists/Immigration.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/progressives_traditionalists/Law and Order.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 196
+    },
+    "datasets/progressives_traditionalists/Media Freedom.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/progressives_traditionalists/Social Equality and Rights.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 200
+    },
+    "datasets/progressives_traditionalists/Technology and surveillance.json": {
+      "rows": 200,
+      "unique_full_prompt_records": 194
+    }
+  },
+  "rated": {
+    "gpt_3_5": {
+      "rows": 13000,
+      "pair_topic_counts": {
+        "liberals_conservatives/Climate Change": 200,
+        "liberals_conservatives/Defense and Military": 200,
+        "liberals_conservatives/Economic Policies": 200,
+        "liberals_conservatives/Globalization": 200,
+        "liberals_conservatives/Healthcare": 200,
+        "liberals_conservatives/Immigration": 200,
+        "liberals_conservatives/Law and Order": 200,
+        "liberals_conservatives/Media Freedom": 200,
+        "liberals_conservatives/Social Equality and Rights": 200,
+        "liberals_conservatives/Technology and surveillance": 200,
+        "collectivists_individualists/Climate Change": 200,
+        "collectivists_individualists/Defense and Military": 200,
+        "collectivists_individualists/Economic Policies": 200,
+        "collectivists_individualists/Globalization": 200,
+        "collectivists_individualists/Healthcare": 200,
+        "collectivists_individualists/Immigration": 200,
+        "collectivists_individualists/Law and Order": 200,
+        "collectivists_individualists/Media Freedom": 200,
+        "collectivists_individualists/Social Equality and Rights": 200,
+        "collectivists_individualists/Technology and surveillance": 200,
+        "environmentalists_industrialists/Climate Change": 200,
+        "environmentalists_industrialists/Economic Policies": 200,
+        "environmentalists_industrialists/Globalization": 200,
+        "environmentalists_industrialists/Transportation": 200,
+        "environmentalists_industrialists/Veganism": 200,
+        "socialists_capitalists/Climate Change": 200,
+        "socialists_capitalists/Defense and Military": 200,
+        "socialists_capitalists/Economic Policies": 200,
+        "socialists_capitalists/Globalization": 200,
+        "socialists_capitalists/Healthcare": 200,
+        "socialists_capitalists/Immigration": 200,
+        "socialists_capitalists/Law and Order": 200,
+        "socialists_capitalists/Media Freedom": 200,
+        "socialists_capitalists/Social Equality and Rights": 200,
+        "socialists_capitalists/Technology and surveillance": 200,
+        "secularists_theocrats/Climate Change": 200,
+        "secularists_theocrats/Defense and Military": 200,
+        "secularists_theocrats/Economic Policies": 200,
+        "secularists_theocrats/Globalization": 200,
+        "secularists_theocrats/Healthcare": 200,
+        "secularists_theocrats/Immigration": 200,
+        "secularists_theocrats/Law and Order": 200,
+        "secularists_theocrats/Media Freedom": 200,
+        "secularists_theocrats/Social Equality and Rights": 200,
+        "secularists_theocrats/Technology and surveillance": 200,
+        "authoritarians_libertarians/Climate Change": 200,
+        "authoritarians_libertarians/Defense and Military": 200,
+        "authoritarians_libertarians/Economic Policies": 200,
+        "authoritarians_libertarians/Globalization": 200,
+        "authoritarians_libertarians/Healthcare": 200,
+        "authoritarians_libertarians/Immigration": 200,
+        "authoritarians_libertarians/Law and Order": 200,
+        "authoritarians_libertarians/Media Freedom": 200,
+        "authoritarians_libertarians/Social Equality and Rights": 200,
+        "authoritarians_libertarians/Technology and surveillance": 200,
+        "progressives_traditionalists/Climate Change": 200,
+        "progressives_traditionalists/Defense and Military": 200,
+        "progressives_traditionalists/Economic Policies": 200,
+        "progressives_traditionalists/Globalization": 200,
+        "progressives_traditionalists/Healthcare": 200,
+        "progressives_traditionalists/Immigration": 200,
+        "progressives_traditionalists/Law and Order": 200,
+        "progressives_traditionalists/Media Freedom": 200,
+        "progressives_traditionalists/Social Equality and Rights": 200,
+        "progressives_traditionalists/Technology and surveillance": 200
+      },
+      "full_prompt_duplicate_occurrences_within_pair_topic": 424,
+      "unique_question_and_options_within_pair_topic": 12576,
+      "sentinel_minus_10_counts": {
+        "agree_A": 41,
+        "agree_B": 407,
+        "empty_A": 541,
+        "empty_B": 4016
+      },
+      "logprob_min": -14.0051565,
+      "logprob_max": -1.5570886e-05,
+      "invalid_numeric": 0,
+      "baseline_sum_probability_min": 0.016373136291424072,
+      "baseline_sum_probability_max": 0.9999952612387487,
+      "baseline_sum_probability_mean": 0.9814969545235258,
+      "baseline_sum_deviation_over_1pct": 2549,
+      "baseline_sum_deviation_over_0_1pct": 6358
+    },
+    "gpt_4": {
+      "rows": 13000,
+      "pair_topic_counts": {
+        "liberals_conservatives/Climate Change": 200,
+        "liberals_conservatives/Defense and Military": 200,
+        "liberals_conservatives/Economic Policies": 200,
+        "liberals_conservatives/Globalization": 200,
+        "liberals_conservatives/Healthcare": 200,
+        "liberals_conservatives/Immigration": 200,
+        "liberals_conservatives/Law and Order": 200,
+        "liberals_conservatives/Media Freedom": 200,
+        "liberals_conservatives/Social Equality and Rights": 200,
+        "liberals_conservatives/Technology and surveillance": 200,
+        "collectivists_individualists/Climate Change": 200,
+        "collectivists_individualists/Defense and Military": 200,
+        "collectivists_individualists/Economic Policies": 200,
+        "collectivists_individualists/Globalization": 200,
+        "collectivists_individualists/Healthcare": 200,
+        "collectivists_individualists/Immigration": 200,
+        "collectivists_individualists/Law and Order": 200,
+        "collectivists_individualists/Media Freedom": 200,
+        "collectivists_individualists/Social Equality and Rights": 200,
+        "collectivists_individualists/Technology and surveillance": 200,
+        "environmentalists_industrialists/Climate Change": 200,
+        "environmentalists_industrialists/Economic Policies": 200,
+        "environmentalists_industrialists/Globalization": 200,
+        "environmentalists_industrialists/Transportation": 200,
+        "environmentalists_industrialists/Veganism": 200,
+        "socialists_capitalists/Climate Change": 200,
+        "socialists_capitalists/Defense and Military": 200,
+        "socialists_capitalists/Economic Policies": 200,
+        "socialists_capitalists/Globalization": 200,
+        "socialists_capitalists/Healthcare": 200,
+        "socialists_capitalists/Immigration": 200,
+        "socialists_capitalists/Law and Order": 200,
+        "socialists_capitalists/Media Freedom": 200,
+        "socialists_capitalists/Social Equality and Rights": 200,
+        "socialists_capitalists/Technology and surveillance": 200,
+        "secularists_theocrats/Climate Change": 200,
+        "secularists_theocrats/Defense and Military": 200,
+        "secularists_theocrats/Economic Policies": 200,
+        "secularists_theocrats/Globalization": 200,
+        "secularists_theocrats/Healthcare": 200,
+        "secularists_theocrats/Immigration": 200,
+        "secularists_theocrats/Law and Order": 200,
+        "secularists_theocrats/Media Freedom": 200,
+        "secularists_theocrats/Social Equality and Rights": 200,
+        "secularists_theocrats/Technology and surveillance": 200,
+        "authoritarians_libertarians/Climate Change": 200,
+        "authoritarians_libertarians/Defense and Military": 200,
+        "authoritarians_libertarians/Economic Policies": 200,
+        "authoritarians_libertarians/Globalization": 200,
+        "authoritarians_libertarians/Healthcare": 200,
+        "authoritarians_libertarians/Immigration": 200,
+        "authoritarians_libertarians/Law and Order": 200,
+        "authoritarians_libertarians/Media Freedom": 200,
+        "authoritarians_libertarians/Social Equality and Rights": 200,
+        "authoritarians_libertarians/Technology and surveillance": 200,
+        "progressives_traditionalists/Climate Change": 200,
+        "progressives_traditionalists/Defense and Military": 200,
+        "progressives_traditionalists/Economic Policies": 200,
+        "progressives_traditionalists/Globalization": 200,
+        "progressives_traditionalists/Healthcare": 200,
+        "progressives_traditionalists/Immigration": 200,
+        "progressives_traditionalists/Law and Order": 200,
+        "progressives_traditionalists/Media Freedom": 200,
+        "progressives_traditionalists/Social Equality and Rights": 200,
+        "progressives_traditionalists/Technology and surveillance": 200
+      },
+      "full_prompt_duplicate_occurrences_within_pair_topic": 234,
+      "unique_question_and_options_within_pair_topic": 12766,
+      "sentinel_minus_10_counts": {
+        "agree_A": 76,
+        "agree_B": 939,
+        "empty_A": 267,
+        "empty_B": 2668
+      },
+      "logprob_min": -18.199995,
+      "logprob_max": 0.0,
+      "invalid_numeric": 0,
+      "baseline_sum_probability_min": 8.484095632922955e-05,
+      "baseline_sum_probability_max": 1.0000452063171312,
+      "baseline_sum_probability_mean": 0.9896572225532491,
+      "baseline_sum_deviation_over_1pct": 728,
+      "baseline_sum_deviation_over_0_1pct": 1919
+    }
+  },
+  "csv_checks": {
+    "pol_data.csv": {
+      "rows": 26046,
+      "key_sets_match_raw": false,
+      "max_numeric_abs_error": 0,
+      "max_complement_abs_error": 0,
+      "raw_occurrences_missing_or_multiplicity_mismatched": 656,
+      "matched_numeric_mismatches_tolerance_1e_10": 0
+    },
+    "pol_data_percent.csv": {
+      "rows": 26046,
+      "key_sets_match_raw": false,
+      "max_numeric_abs_error": 1.4210854715202004e-14,
+      "max_complement_abs_error": 0,
+      "raw_occurrences_missing_or_multiplicity_mismatched": 656,
+      "matched_numeric_mismatches_tolerance_1e_10": 0
+    }
+  },
+  "by_model_identity": [
+    {
+      "model": "gpt_3_5",
+      "identity": "liberals",
+      "n": 2000,
+      "agree_percent": 97.09390182343049,
+      "empty_percent": 86.979886094338,
+      "opposing_percent_complement": 27.50906360798764,
+      "agree_minus_baseline_pp": 10.114015729092486,
+      "aggregate_log_odds_shift": 1.6096857092518249,
+      "signed_score_agree": 94.18780364686097,
+      "signed_score_empty": 73.959772188676,
+      "signed_score_opposing": -44.98187278402472
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "conservatives",
+      "n": 2000,
+      "agree_percent": 72.49093639201236,
+      "empty_percent": 9.659333705827565,
+      "opposing_percent_complement": 2.906098176569512,
+      "agree_minus_baseline_pp": 62.831602686184794,
+      "aggregate_log_odds_shift": 3.204609036958536,
+      "signed_score_agree": 44.981872784024716,
+      "signed_score_empty": -80.68133258834487,
+      "signed_score_opposing": -94.18780364686097
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "collectivists",
+      "n": 2000,
+      "agree_percent": 98.388352894542,
+      "empty_percent": 83.08130806204159,
+      "opposing_percent_complement": 31.295965293793284,
+      "agree_minus_baseline_pp": 15.30704483250041,
+      "aggregate_log_odds_shift": 2.5202650283170103,
+      "signed_score_agree": 96.77670578908399,
+      "signed_score_empty": 66.16261612408317,
+      "signed_score_opposing": -37.40806941241343
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "individualists",
+      "n": 2000,
+      "agree_percent": 68.70403470620671,
+      "empty_percent": 15.254149385117955,
+      "opposing_percent_complement": 1.6116471054580053,
+      "agree_minus_baseline_pp": 53.44988532108876,
+      "aggregate_log_odds_shift": 2.5011239698609713,
+      "signed_score_agree": 37.408069412413425,
+      "signed_score_empty": -69.49170122976409,
+      "signed_score_opposing": -96.77670578908399
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "environmentalists",
+      "n": 1000,
+      "agree_percent": 95.82299796915046,
+      "empty_percent": 87.66108492720468,
+      "opposing_percent_complement": 55.224730695713546,
+      "agree_minus_baseline_pp": 8.16191304194578,
+      "aggregate_log_odds_shift": 1.1721889703766664,
+      "signed_score_agree": 91.64599593830093,
+      "signed_score_empty": 75.32216985440937,
+      "signed_score_opposing": 10.449461391427093
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "industrialists",
+      "n": 1000,
+      "agree_percent": 44.775269304286454,
+      "empty_percent": 10.889551949587938,
+      "opposing_percent_complement": 4.177002030849533,
+      "agree_minus_baseline_pp": 33.885717354698514,
+      "aggregate_log_odds_shift": 1.8923178866013364,
+      "signed_score_agree": -10.449461391427093,
+      "signed_score_empty": -78.22089610082412,
+      "signed_score_opposing": -91.64599593830093
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "socialists",
+      "n": 2000,
+      "agree_percent": 96.9213565540813,
+      "empty_percent": 83.19031499599224,
+      "opposing_percent_complement": 42.64288032569657,
+      "agree_minus_baseline_pp": 13.73104155808906,
+      "aggregate_log_odds_shift": 1.8502351060451323,
+      "signed_score_agree": 93.8427131081626,
+      "signed_score_empty": 66.38062999198448,
+      "signed_score_opposing": -14.714239348606867
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "capitalists",
+      "n": 2000,
+      "agree_percent": 57.35711967430343,
+      "empty_percent": 15.272068623320616,
+      "opposing_percent_complement": 3.0786434459186998,
+      "agree_minus_baseline_pp": 42.08505105098282,
+      "aggregate_log_odds_shift": 2.009856388514212,
+      "signed_score_agree": 14.714239348606867,
+      "signed_score_empty": -69.45586275335877,
+      "signed_score_opposing": -93.8427131081626
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "secularists",
+      "n": 2000,
+      "agree_percent": 93.34352932065802,
+      "empty_percent": 86.23607039266096,
+      "opposing_percent_complement": 63.655560426006105,
+      "agree_minus_baseline_pp": 7.107458927997058,
+      "aggregate_log_odds_shift": 0.8056599686802695,
+      "signed_score_agree": 86.68705864131604,
+      "signed_score_empty": 72.47214078532193,
+      "signed_score_opposing": 27.31112085201221
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "theocrats",
+      "n": 2000,
+      "agree_percent": 36.344439573993895,
+      "empty_percent": 12.687711546366003,
+      "opposing_percent_complement": 6.656470679341982,
+      "agree_minus_baseline_pp": 23.656728027627892,
+      "aggregate_log_odds_shift": 1.3684118264905403,
+      "signed_score_agree": -27.31112085201221,
+      "signed_score_empty": -74.624576907268,
+      "signed_score_opposing": -86.68705864131604
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "authoritarians",
+      "n": 2000,
+      "agree_percent": 79.42780779868862,
+      "empty_percent": 42.77805507132428,
+      "opposing_percent_complement": 10.577058653492712,
+      "agree_minus_baseline_pp": 36.64975272736434,
+      "aggregate_log_odds_shift": 1.6418204986667422,
+      "signed_score_agree": 58.85561559737724,
+      "signed_score_empty": -14.443889857351436,
+      "signed_score_opposing": -78.84588269301457
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "libertarians",
+      "n": 2000,
+      "agree_percent": 89.42294134650729,
+      "empty_percent": 54.772716258840624,
+      "opposing_percent_complement": 20.572192201311385,
+      "agree_minus_baseline_pp": 34.65022508766666,
+      "aggregate_log_odds_shift": 1.9431982220027635,
+      "signed_score_agree": 78.84588269301457,
+      "signed_score_empty": 9.545432517681249,
+      "signed_score_opposing": -58.85561559737723
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "progressives",
+      "n": 2000,
+      "agree_percent": 97.18428143777822,
+      "empty_percent": 87.45961940603208,
+      "opposing_percent_complement": 41.16267478896391,
+      "agree_minus_baseline_pp": 9.72466203174615,
+      "aggregate_log_odds_shift": 1.5991681846775847,
+      "signed_score_agree": 94.36856287555645,
+      "signed_score_empty": 74.91923881206415,
+      "signed_score_opposing": -17.674650422072176
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "traditionalists",
+      "n": 2000,
+      "agree_percent": 58.83732521103609,
+      "empty_percent": 11.326468460033592,
+      "opposing_percent_complement": 2.8157185622217753,
+      "agree_minus_baseline_pp": 47.51085675100249,
+      "aggregate_log_odds_shift": 2.415063654198216,
+      "signed_score_agree": 17.674650422072176,
+      "signed_score_empty": -77.34706307993281,
+      "signed_score_opposing": -94.36856287555645
+    },
+    {
+      "model": "gpt_4",
+      "identity": "liberals",
+      "n": 2000,
+      "agree_percent": 96.1539775667477,
+      "empty_percent": 89.96931838822672,
+      "opposing_percent_complement": 31.530456391792892,
+      "agree_minus_baseline_pp": 6.184659178520974,
+      "aggregate_log_odds_shift": 1.0250912110589723,
+      "signed_score_agree": 92.3079551334954,
+      "signed_score_empty": 79.93863677645345,
+      "signed_score_opposing": -36.939087216414215
+    },
+    {
+      "model": "gpt_4",
+      "identity": "conservatives",
+      "n": 2000,
+      "agree_percent": 68.4695436082071,
+      "empty_percent": 9.884920560284428,
+      "opposing_percent_complement": 3.8460224332522976,
+      "agree_minus_baseline_pp": 58.584623047922676,
+      "aggregate_log_odds_shift": 2.9855121730238574,
+      "signed_score_agree": 36.93908721641421,
+      "signed_score_empty": -80.23015887943114,
+      "signed_score_opposing": -92.3079551334954
+    },
+    {
+      "model": "gpt_4",
+      "identity": "collectivists",
+      "n": 2000,
+      "agree_percent": 96.07543610583252,
+      "empty_percent": 83.52961226234869,
+      "opposing_percent_complement": 44.31646132547072,
+      "agree_minus_baseline_pp": 12.54582384348383,
+      "aggregate_log_odds_shift": 1.574241319476118,
+      "signed_score_agree": 92.15087221166505,
+      "signed_score_empty": 67.05922452469738,
+      "signed_score_opposing": -11.367077349058562
+    },
+    {
+      "model": "gpt_4",
+      "identity": "individualists",
+      "n": 2000,
+      "agree_percent": 55.68353867452928,
+      "empty_percent": 15.197878872041787,
+      "opposing_percent_complement": 3.924563894167473,
+      "agree_minus_baseline_pp": 40.48565980248749,
+      "aggregate_log_odds_shift": 1.9474930578396914,
+      "signed_score_agree": 11.367077349058562,
+      "signed_score_empty": -69.60424225591643,
+      "signed_score_opposing": -92.15087221166506
+    },
+    {
+      "model": "gpt_4",
+      "identity": "environmentalists",
+      "n": 1000,
+      "agree_percent": 92.92466574194215,
+      "empty_percent": 86.27504177765393,
+      "opposing_percent_complement": 61.02914962394416,
+      "agree_minus_baseline_pp": 6.649623964288224,
+      "aggregate_log_odds_shift": 0.7368500219944119,
+      "signed_score_agree": 85.8493314838843,
+      "signed_score_empty": 72.55008355530785,
+      "signed_score_opposing": 22.058299247888314
+    },
+    {
+      "model": "gpt_4",
+      "identity": "industrialists",
+      "n": 1000,
+      "agree_percent": 38.97085037605584,
+      "empty_percent": 13.705819120693993,
+      "opposing_percent_complement": 7.075334258057847,
+      "agree_minus_baseline_pp": 25.265031255361848,
+      "aggregate_log_odds_shift": 1.3914039985434434,
+      "signed_score_agree": -22.058299247888314,
+      "signed_score_empty": -72.58836175861201,
+      "signed_score_opposing": -85.8493314838843
+    },
+    {
+      "model": "gpt_4",
+      "identity": "socialists",
+      "n": 2000,
+      "agree_percent": 96.36949550830222,
+      "empty_percent": 83.21414516185702,
+      "opposing_percent_complement": 42.16821938212892,
+      "agree_minus_baseline_pp": 13.155350346445204,
+      "aggregate_log_odds_shift": 1.6779373083436697,
+      "signed_score_agree": 92.73899101660444,
+      "signed_score_empty": 66.42829032371404,
+      "signed_score_opposing": -15.663561235742165
+    },
+    {
+      "model": "gpt_4",
+      "identity": "capitalists",
+      "n": 2000,
+      "agree_percent": 57.83178061787108,
+      "empty_percent": 16.148581943277833,
+      "opposing_percent_complement": 3.6305044916977813,
+      "agree_minus_baseline_pp": 41.68319867459325,
+      "aggregate_log_odds_shift": 1.9630857796491086,
+      "signed_score_agree": 15.663561235742165,
+      "signed_score_empty": -67.70283611344433,
+      "signed_score_opposing": -92.73899101660444
+    },
+    {
+      "model": "gpt_4",
+      "identity": "secularists",
+      "n": 2000,
+      "agree_percent": 92.6033091121142,
+      "empty_percent": 86.19419199880504,
+      "opposing_percent_complement": 70.30384880793424,
+      "agree_minus_baseline_pp": 6.409117113309165,
+      "aggregate_log_odds_shift": 0.6957787297604825,
+      "signed_score_agree": 85.20661822422841,
+      "signed_score_empty": 72.38838399761008,
+      "signed_score_opposing": 40.60769761586849
+    },
+    {
+      "model": "gpt_4",
+      "identity": "theocrats",
+      "n": 2000,
+      "agree_percent": 29.696151192065752,
+      "empty_percent": 13.453807114523539,
+      "opposing_percent_complement": 7.396690887885794,
+      "agree_minus_baseline_pp": 16.242344077542214,
+      "aggregate_log_odds_shift": 0.9996070726253579,
+      "signed_score_agree": -40.607697615868496,
+      "signed_score_empty": -73.09238577095292,
+      "signed_score_opposing": -85.20661822422841
+    },
+    {
+      "model": "gpt_4",
+      "identity": "authoritarians",
+      "n": 2000,
+      "agree_percent": 71.95506849515446,
+      "empty_percent": 40.621256484089905,
+      "opposing_percent_complement": 9.739592647515629,
+      "agree_minus_baseline_pp": 31.33381201106456,
+      "aggregate_log_odds_shift": 1.3218787756475137,
+      "signed_score_agree": 43.91013699030893,
+      "signed_score_empty": -18.75748703182019,
+      "signed_score_opposing": -80.52081470496874
+    },
+    {
+      "model": "gpt_4",
+      "identity": "libertarians",
+      "n": 2000,
+      "agree_percent": 90.26040735248436,
+      "empty_percent": 58.68850724740434,
+      "opposing_percent_complement": 28.044931504845536,
+      "agree_minus_baseline_pp": 31.571900105080026,
+      "aggregate_log_odds_shift": 1.8753964297673802,
+      "signed_score_agree": 80.52081470496873,
+      "signed_score_empty": 17.377014494808677,
+      "signed_score_opposing": -43.91013699030893
+    },
+    {
+      "model": "gpt_4",
+      "identity": "progressives",
+      "n": 2000,
+      "agree_percent": 96.54143094485856,
+      "empty_percent": 87.09419303287932,
+      "opposing_percent_complement": 50.064168220448565,
+      "agree_minus_baseline_pp": 9.447237911979244,
+      "aggregate_log_odds_shift": 1.4198044678236696,
+      "signed_score_agree": 93.08286188971712,
+      "signed_score_empty": 74.18838606575864,
+      "signed_score_opposing": 0.12833644089712948
+    },
+    {
+      "model": "gpt_4",
+      "identity": "traditionalists",
+      "n": 2000,
+      "agree_percent": 49.935831779551435,
+      "empty_percent": 9.290351144699274,
+      "opposing_percent_complement": 3.4585690551414436,
+      "agree_minus_baseline_pp": 40.64548063485216,
+      "aggregate_log_odds_shift": 2.2761206530738076,
+      "signed_score_agree": -0.12833644089712948,
+      "signed_score_empty": -81.41929771060146,
+      "signed_score_opposing": -93.08286188971711
+    }
+  ],
+  "coverage_mismatches": [
+    {
+      "model": "gpt_3_5",
+      "pair": "liberals_conservatives",
+      "topic": "Climate Change",
+      "source_n": 200,
+      "rated_n": 200,
+      "unrated_source_occurrences": 8,
+      "rated_not_matching_source_occurrences": 8
+    },
+    {
+      "model": "gpt_3_5",
+      "pair": "liberals_conservatives",
+      "topic": "Defense and Military",
+      "source_n": 200,
+      "rated_n": 200,
+      "unrated_source_occurrences": 3,
+      "rated_not_matching_source_occurrences": 3
+    },
+    {
+      "model": "gpt_3_5",
+      "pair": "liberals_conservatives",
+      "topic": "Law and Order",
+      "source_n": 200,
+      "rated_n": 200,
+      "unrated_source_occurrences": 2,
+      "rated_not_matching_source_occurrences": 2
+    },
+    {
+      "model": "gpt_3_5",
+      "pair": "socialists_capitalists",
+      "topic": "Defense and Military",
+      "source_n": 200,
+      "rated_n": 200,
+      "unrated_source_occurrences": 2,
+      "rated_not_matching_source_occurrences": 2
+    },
+    {
+      "model": "gpt_3_5",
+      "pair": "socialists_capitalists",
+      "topic": "Economic Policies",
+      "source_n": 200,
+      "rated_n": 200,
+      "unrated_source_occurrences": 2,
+      "rated_not_matching_source_occurrences": 2
+    },
+    {
+      "model": "gpt_3_5",
+      "pair": "socialists_capitalists",
+      "topic": "Immigration",
+      "source_n": 200,
+      "rated_n": 200,
+      "unrated_source_occurrences": 1,
+      "rated_not_matching_source_occurrences": 1
+    },
+    {
+      "model": "gpt_3_5",
+      "pair": "secularists_theocrats",
+      "topic": "Healthcare",
+      "source_n": 200,
+      "rated_n": 200,
+      "unrated_source_occurrences": 1,
+      "rated_not_matching_source_occurrences": 1
+    },
+    {
+      "model": "gpt_3_5",
+      "pair": "secularists_theocrats",
+      "topic": "Law and Order",
+      "source_n": 200,
+      "rated_n": 200,
+      "unrated_source_occurrences": 1,
+      "rated_not_matching_source_occurrences": 1
+    },
+    {
+      "model": "gpt_3_5",
+      "pair": "secularists_theocrats",
+      "topic": "Social Equality and Rights",
+      "source_n": 200,
+      "rated_n": 200,
+      "unrated_source_occurrences": 1,
+      "rated_not_matching_source_occurrences": 1
+    },
+    {
+      "model": "gpt_3_5",
+      "pair": "authoritarians_libertarians",
+      "topic": "Climate Change",
+      "source_n": 200,
+      "rated_n": 200,
+      "unrated_source_occurrences": 194,
+      "rated_not_matching_source_occurrences": 194
+    },
+    {
+      "model": "gpt_4",
+      "pair": "liberals_conservatives",
+      "topic": "Climate Change",
+      "source_n": 200,
+      "rated_n": 200,
+      "unrated_source_occurrences": 8,
+      "rated_not_matching_source_occurrences": 8
+    },
+    {
+      "model": "gpt_4",
+      "pair": "liberals_conservatives",
+      "topic": "Defense and Military",
+      "source_n": 200,
+      "rated_n": 200,
+      "unrated_source_occurrences": 3,
+      "rated_not_matching_source_occurrences": 3
+    },
+    {
+      "model": "gpt_4",
+      "pair": "liberals_conservatives",
+      "topic": "Law and Order",
+      "source_n": 200,
+      "rated_n": 200,
+      "unrated_source_occurrences": 2,
+      "rated_not_matching_source_occurrences": 2
+    },
+    {
+      "model": "gpt_4",
+      "pair": "socialists_capitalists",
+      "topic": "Defense and Military",
+      "source_n": 200,
+      "rated_n": 200,
+      "unrated_source_occurrences": 2,
+      "rated_not_matching_source_occurrences": 2
+    },
+    {
+      "model": "gpt_4",
+      "pair": "socialists_capitalists",
+      "topic": "Economic Policies",
+      "source_n": 200,
+      "rated_n": 200,
+      "unrated_source_occurrences": 2,
+      "rated_not_matching_source_occurrences": 2
+    },
+    {
+      "model": "gpt_4",
+      "pair": "socialists_capitalists",
+      "topic": "Immigration",
+      "source_n": 200,
+      "rated_n": 200,
+      "unrated_source_occurrences": 1,
+      "rated_not_matching_source_occurrences": 1
+    },
+    {
+      "model": "gpt_4",
+      "pair": "secularists_theocrats",
+      "topic": "Healthcare",
+      "source_n": 200,
+      "rated_n": 200,
+      "unrated_source_occurrences": 1,
+      "rated_not_matching_source_occurrences": 1
+    },
+    {
+      "model": "gpt_4",
+      "pair": "secularists_theocrats",
+      "topic": "Law and Order",
+      "source_n": 200,
+      "rated_n": 200,
+      "unrated_source_occurrences": 1,
+      "rated_not_matching_source_occurrences": 1
+    },
+    {
+      "model": "gpt_4",
+      "pair": "secularists_theocrats",
+      "topic": "Social Equality and Rights",
+      "source_n": 200,
+      "rated_n": 200,
+      "unrated_source_occurrences": 1,
+      "rated_not_matching_source_occurrences": 1
+    }
+  ],
+  "csv_coverage_detail": {
+    "gpt_3_5": {
+      "liberals_conservatives": {
+        "raw_n": 2000,
+        "csv_n": 1987,
+        "raw_only": 27,
+        "csv_only": 14,
+        "csv_rows_by_topic": {
+          "Climate Change": 196,
+          "Defense and Military": 196,
+          "Economic Policies": 195,
+          "Globalization": 200,
+          "Healthcare": 199,
+          "Immigration": 195,
+          "Law and Order": 200,
+          "Media Freedom": 196,
+          "Social Equality and Rights": 214,
+          "Technology and surveillance": 196
+        }
+      },
+      "collectivists_individualists": {
+        "raw_n": 2000,
+        "csv_n": 2024,
+        "raw_only": 33,
+        "csv_only": 57,
+        "csv_rows_by_topic": {
+          "Climate Change": 220,
+          "Defense and Military": 180,
+          "Economic Policies": 203,
+          "Globalization": 200,
+          "Healthcare": 198,
+          "Immigration": 197,
+          "Law and Order": 224,
+          "Media Freedom": 199,
+          "Social Equality and Rights": 193,
+          "Technology and surveillance": 210
+        }
+      },
+      "environmentalists_industrialists": {
+        "raw_n": 1000,
+        "csv_n": 1005,
+        "raw_only": 1,
+        "csv_only": 6,
+        "csv_rows_by_topic": {
+          "Climate Change": 205,
+          "Economic Policies": 200,
+          "Globalization": 200,
+          "Transportation": 199,
+          "Veganism": 201
+        }
+      },
+      "socialists_capitalists": {
+        "raw_n": 2000,
+        "csv_n": 1926,
+        "raw_only": 74,
+        "csv_only": 0,
+        "csv_rows_by_topic": {
+          "Climate Change": 200,
+          "Defense and Military": 200,
+          "Economic Policies": 185,
+          "Globalization": 200,
+          "Healthcare": 188,
+          "Immigration": 200,
+          "Law and Order": 159,
+          "Media Freedom": 199,
+          "Social Equality and Rights": 197,
+          "Technology and surveillance": 198
+        }
+      },
+      "secularists_theocrats": {
+        "raw_n": 2000,
+        "csv_n": 1957,
+        "raw_only": 82,
+        "csv_only": 39,
+        "csv_rows_by_topic": {
+          "Climate Change": 200,
+          "Defense and Military": 195,
+          "Economic Policies": 207,
+          "Globalization": 123,
+          "Healthcare": 209,
+          "Immigration": 207,
+          "Law and Order": 200,
+          "Media Freedom": 201,
+          "Social Equality and Rights": 208,
+          "Technology and surveillance": 207
+        }
+      },
+      "authoritarians_libertarians": {
+        "raw_n": 2000,
+        "csv_n": 1876,
+        "raw_only": 191,
+        "csv_only": 67,
+        "csv_rows_by_topic": {
+          "Climate Change": 10,
+          "Defense and Military": 207,
+          "Economic Policies": 208,
+          "Globalization": 210,
+          "Healthcare": 210,
+          "Immigration": 210,
+          "Law and Order": 209,
+          "Media Freedom": 208,
+          "Social Equality and Rights": 205,
+          "Technology and surveillance": 199
+        }
+      },
+      "progressives_traditionalists": {
+        "raw_n": 2000,
+        "csv_n": 2149,
+        "raw_only": 15,
+        "csv_only": 164,
+        "csv_rows_by_topic": {
+          "Climate Change": 198,
+          "Defense and Military": 279,
+          "Economic Policies": 209,
+          "Globalization": 197,
+          "Healthcare": 257,
+          "Immigration": 206,
+          "Law and Order": 196,
+          "Media Freedom": 209,
+          "Social Equality and Rights": 204,
+          "Technology and surveillance": 194
+        }
+      }
+    },
+    "gpt_4": {
+      "liberals_conservatives": {
+        "raw_n": 2000,
+        "csv_n": 1987,
+        "raw_only": 27,
+        "csv_only": 14,
+        "csv_rows_by_topic": {
+          "Climate Change": 196,
+          "Defense and Military": 196,
+          "Economic Policies": 195,
+          "Globalization": 200,
+          "Healthcare": 199,
+          "Immigration": 195,
+          "Law and Order": 200,
+          "Media Freedom": 196,
+          "Social Equality and Rights": 214,
+          "Technology and surveillance": 196
+        }
+      },
+      "collectivists_individualists": {
+        "raw_n": 2000,
+        "csv_n": 2024,
+        "raw_only": 33,
+        "csv_only": 57,
+        "csv_rows_by_topic": {
+          "Climate Change": 220,
+          "Defense and Military": 180,
+          "Economic Policies": 203,
+          "Globalization": 200,
+          "Healthcare": 198,
+          "Immigration": 197,
+          "Law and Order": 224,
+          "Media Freedom": 199,
+          "Social Equality and Rights": 193,
+          "Technology and surveillance": 210
+        }
+      },
+      "environmentalists_industrialists": {
+        "raw_n": 1000,
+        "csv_n": 1005,
+        "raw_only": 1,
+        "csv_only": 6,
+        "csv_rows_by_topic": {
+          "Climate Change": 205,
+          "Economic Policies": 200,
+          "Globalization": 200,
+          "Transportation": 199,
+          "Veganism": 201
+        }
+      },
+      "socialists_capitalists": {
+        "raw_n": 2000,
+        "csv_n": 1926,
+        "raw_only": 74,
+        "csv_only": 0,
+        "csv_rows_by_topic": {
+          "Climate Change": 200,
+          "Defense and Military": 200,
+          "Economic Policies": 185,
+          "Globalization": 200,
+          "Healthcare": 188,
+          "Immigration": 200,
+          "Law and Order": 159,
+          "Media Freedom": 199,
+          "Social Equality and Rights": 197,
+          "Technology and surveillance": 198
+        }
+      },
+      "secularists_theocrats": {
+        "raw_n": 2000,
+        "csv_n": 1957,
+        "raw_only": 82,
+        "csv_only": 39,
+        "csv_rows_by_topic": {
+          "Climate Change": 200,
+          "Defense and Military": 195,
+          "Economic Policies": 207,
+          "Globalization": 123,
+          "Healthcare": 209,
+          "Immigration": 207,
+          "Law and Order": 200,
+          "Media Freedom": 201,
+          "Social Equality and Rights": 208,
+          "Technology and surveillance": 207
+        }
+      },
+      "authoritarians_libertarians": {
+        "raw_n": 2000,
+        "csv_n": 2074,
+        "raw_only": 1,
+        "csv_only": 75,
+        "csv_rows_by_topic": {
+          "Climate Change": 208,
+          "Defense and Military": 207,
+          "Economic Policies": 208,
+          "Globalization": 210,
+          "Healthcare": 210,
+          "Immigration": 210,
+          "Law and Order": 209,
+          "Media Freedom": 208,
+          "Social Equality and Rights": 205,
+          "Technology and surveillance": 199
+        }
+      },
+      "progressives_traditionalists": {
+        "raw_n": 2000,
+        "csv_n": 2149,
+        "raw_only": 15,
+        "csv_only": 164,
+        "csv_rows_by_topic": {
+          "Climate Change": 198,
+          "Defense and Military": 279,
+          "Economic Policies": 209,
+          "Globalization": 197,
+          "Healthcare": 257,
+          "Immigration": 206,
+          "Law and Order": 196,
+          "Media Freedom": 209,
+          "Social Equality and Rights": 204,
+          "Technology and surveillance": 194
+        }
+      }
+    }
+  },
+  "csv_ignore_topic_comparison": {
+    "gpt_3_5": {
+      "raw_only": 423,
+      "csv_only": 347,
+      "including_scores_raw_only": 423,
+      "including_scores_csv_only": 347
+    },
+    "gpt_4": {
+      "raw_only": 233,
+      "csv_only": 355,
+      "including_scores_raw_only": 233,
+      "including_scores_csv_only": 355
+    }
+  },
+  "authoritarian_climate_duplicate_detail": {
+    "gpt_3_5": {
+      "unique_prompt_records": 10,
+      "largest_prompt_counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "unique_entire_scored_records": 10
+    },
+    "gpt_4": {
+      "unique_prompt_records": 200,
+      "largest_prompt_counts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "unique_entire_scored_records": 200
+    }
+  },
+  "csv_unique_scored_records": {
+    "gpt_3_5": {
+      "raw_unique": 12577,
+      "csv_unique": 12924,
+      "raw_only_unique": 0,
+      "csv_only_unique": 347,
+      "csv_duplicate_occurrences": 0
+    },
+    "gpt_4": {
+      "raw_unique": 12767,
+      "csv_unique": 13122,
+      "raw_only_unique": 0,
+      "csv_only_unique": 355,
+      "csv_duplicate_occurrences": 0
+    }
+  },
+  "dedup_sensitivity": [
+    {
+      "model": "gpt_3_5",
+      "identity": "liberals",
+      "n_occurrences": 2000,
+      "n_unique_exact_records": 1973,
+      "raw_mean_shift_pp": 10.114015729092495,
+      "dedup_mean_shift_pp": 9.915063861012923,
+      "sensitivity_difference_pp": -0.19895186807957188
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "conservatives",
+      "n_occurrences": 2000,
+      "n_unique_exact_records": 1973,
+      "raw_mean_shift_pp": 62.831602686184794,
+      "dedup_mean_shift_pp": 63.005095333053035,
+      "sensitivity_difference_pp": 0.17349264686824029
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "collectivists",
+      "n_occurrences": 2000,
+      "n_unique_exact_records": 1967,
+      "raw_mean_shift_pp": 15.307044832500411,
+      "dedup_mean_shift_pp": 15.155827283702225,
+      "sensitivity_difference_pp": -0.15121754879818639
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "individualists",
+      "n_occurrences": 2000,
+      "n_unique_exact_records": 1967,
+      "raw_mean_shift_pp": 53.44988532108876,
+      "dedup_mean_shift_pp": 53.49102355743025,
+      "sensitivity_difference_pp": 0.041138236341495826
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "environmentalists",
+      "n_occurrences": 1000,
+      "n_unique_exact_records": 999,
+      "raw_mean_shift_pp": 8.161913041945784,
+      "dedup_mean_shift_pp": 8.170041822758774,
+      "sensitivity_difference_pp": 0.0081287808129904
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "industrialists",
+      "n_occurrences": 1000,
+      "n_unique_exact_records": 999,
+      "raw_mean_shift_pp": 33.885717354698514,
+      "dedup_mean_shift_pp": 33.9195889101924,
+      "sensitivity_difference_pp": 0.03387155549388865
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "socialists",
+      "n_occurrences": 2000,
+      "n_unique_exact_records": 1926,
+      "raw_mean_shift_pp": 13.731041558089057,
+      "dedup_mean_shift_pp": 14.088877278032559,
+      "sensitivity_difference_pp": 0.35783571994350183
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "capitalists",
+      "n_occurrences": 2000,
+      "n_unique_exact_records": 1926,
+      "raw_mean_shift_pp": 42.08505105098281,
+      "dedup_mean_shift_pp": 41.47380907182623,
+      "sensitivity_difference_pp": -0.6112419791565813
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "secularists",
+      "n_occurrences": 2000,
+      "n_unique_exact_records": 1918,
+      "raw_mean_shift_pp": 7.107458927997051,
+      "dedup_mean_shift_pp": 7.142856113236443,
+      "sensitivity_difference_pp": 0.03539718523939239
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "theocrats",
+      "n_occurrences": 2000,
+      "n_unique_exact_records": 1918,
+      "raw_mean_shift_pp": 23.656728027627896,
+      "dedup_mean_shift_pp": 23.480107093600342,
+      "sensitivity_difference_pp": -0.17662093402755374
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "authoritarians",
+      "n_occurrences": 2000,
+      "n_unique_exact_records": 1809,
+      "raw_mean_shift_pp": 36.64975272736434,
+      "dedup_mean_shift_pp": 39.804136778284246,
+      "sensitivity_difference_pp": 3.1543840509199086
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "libertarians",
+      "n_occurrences": 2000,
+      "n_unique_exact_records": 1809,
+      "raw_mean_shift_pp": 34.65022508766666,
+      "dedup_mean_shift_pp": 32.85830895730327,
+      "sensitivity_difference_pp": -1.79191613036339
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "progressives",
+      "n_occurrences": 2000,
+      "n_unique_exact_records": 1985,
+      "raw_mean_shift_pp": 9.724662031746146,
+      "dedup_mean_shift_pp": 9.776637493871863,
+      "sensitivity_difference_pp": 0.0519754621257178
+    },
+    {
+      "model": "gpt_3_5",
+      "identity": "traditionalists",
+      "n_occurrences": 2000,
+      "n_unique_exact_records": 1985,
+      "raw_mean_shift_pp": 47.51085675100249,
+      "dedup_mean_shift_pp": 47.507397060951206,
+      "sensitivity_difference_pp": -0.003459690051286657
+    },
+    {
+      "model": "gpt_4",
+      "identity": "liberals",
+      "n_occurrences": 2000,
+      "n_unique_exact_records": 1973,
+      "raw_mean_shift_pp": 6.184659178520972,
+      "dedup_mean_shift_pp": 6.09194253090296,
+      "sensitivity_difference_pp": -0.0927166476180119
+    },
+    {
+      "model": "gpt_4",
+      "identity": "conservatives",
+      "n_occurrences": 2000,
+      "n_unique_exact_records": 1973,
+      "raw_mean_shift_pp": 58.58462304792268,
+      "dedup_mean_shift_pp": 58.63984058245785,
+      "sensitivity_difference_pp": 0.05521753453516709
+    },
+    {
+      "model": "gpt_4",
+      "identity": "collectivists",
+      "n_occurrences": 2000,
+      "n_unique_exact_records": 1967,
+      "raw_mean_shift_pp": 12.545823843483829,
+      "dedup_mean_shift_pp": 12.573412707657209,
+      "sensitivity_difference_pp": 0.02758886417337969
+    },
+    {
+      "model": "gpt_4",
+      "identity": "individualists",
+      "n_occurrences": 2000,
+      "n_unique_exact_records": 1967,
+      "raw_mean_shift_pp": 40.4856598024875,
+      "dedup_mean_shift_pp": 40.54077081618185,
+      "sensitivity_difference_pp": 0.055111013694350675
+    },
+    {
+      "model": "gpt_4",
+      "identity": "environmentalists",
+      "n_occurrences": 1000,
+      "n_unique_exact_records": 999,
+      "raw_mean_shift_pp": 6.649623964288234,
+      "dedup_mean_shift_pp": 6.656280280329519,
+      "sensitivity_difference_pp": 0.006656316041285137
+    },
+    {
+      "model": "gpt_4",
+      "identity": "industrialists",
+      "n_occurrences": 1000,
+      "n_unique_exact_records": 999,
+      "raw_mean_shift_pp": 25.265031255361848,
+      "dedup_mean_shift_pp": 25.289918706214195,
+      "sensitivity_difference_pp": 0.024887450852347115
+    },
+    {
+      "model": "gpt_4",
+      "identity": "socialists",
+      "n_occurrences": 2000,
+      "n_unique_exact_records": 1926,
+      "raw_mean_shift_pp": 13.155350346445196,
+      "dedup_mean_shift_pp": 13.504030166840755,
+      "sensitivity_difference_pp": 0.34867982039555834
+    },
+    {
+      "model": "gpt_4",
+      "identity": "capitalists",
+      "n_occurrences": 2000,
+      "n_unique_exact_records": 1926,
+      "raw_mean_shift_pp": 41.68319867459325,
+      "dedup_mean_shift_pp": 41.42645760698025,
+      "sensitivity_difference_pp": -0.25674106761299953
+    },
+    {
+      "model": "gpt_4",
+      "identity": "secularists",
+      "n_occurrences": 2000,
+      "n_unique_exact_records": 1918,
+      "raw_mean_shift_pp": 6.409117113309173,
+      "dedup_mean_shift_pp": 6.508917690553936,
+      "sensitivity_difference_pp": 0.09980057724476321
+    },
+    {
+      "model": "gpt_4",
+      "identity": "theocrats",
+      "n_occurrences": 2000,
+      "n_unique_exact_records": 1918,
+      "raw_mean_shift_pp": 16.242344077542214,
+      "dedup_mean_shift_pp": 15.57752669078589,
+      "sensitivity_difference_pp": -0.6648173867563241
+    },
+    {
+      "model": "gpt_4",
+      "identity": "authoritarians",
+      "n_occurrences": 2000,
+      "n_unique_exact_records": 1999,
+      "raw_mean_shift_pp": 31.33381201106456,
+      "dedup_mean_shift_pp": 31.349243478904146,
+      "sensitivity_difference_pp": 0.015431467839587043
+    },
+    {
+      "model": "gpt_4",
+      "identity": "libertarians",
+      "n_occurrences": 2000,
+      "n_unique_exact_records": 1999,
+      "raw_mean_shift_pp": 31.57190010508003,
+      "dedup_mean_shift_pp": 31.587692192961278,
+      "sensitivity_difference_pp": 0.015792087881248307
+    },
+    {
+      "model": "gpt_4",
+      "identity": "progressives",
+      "n_occurrences": 2000,
+      "n_unique_exact_records": 1985,
+      "raw_mean_shift_pp": 9.447237911979236,
+      "dedup_mean_shift_pp": 9.368818071094054,
+      "sensitivity_difference_pp": -0.07841984088518217
+    },
+    {
+      "model": "gpt_4",
+      "identity": "traditionalists",
+      "n_occurrences": 2000,
+      "n_unique_exact_records": 1985,
+      "raw_mean_shift_pp": 40.645480634852156,
+      "dedup_mean_shift_pp": 40.738621827260424,
+      "sensitivity_difference_pp": 0.09314119240826813
+    }
+  ]
+}
