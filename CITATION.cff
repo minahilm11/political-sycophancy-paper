@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite this record."
+title: "Political Sycophancy: Data and Analysis Code"
+authors:
+  - family-names: Malik
+    given-names: Minahil
+version: 1.0.0
+abstract: "Political datasets, query and biography construction, descriptive statistics, and GPT-3.5 and GPT-4 figures accompanying the paper."
+repository-code: "https://github.com/minahilm11/political-sycophancy-paper"
