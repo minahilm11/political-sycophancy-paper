@@ -13,3 +13,7 @@ The original procedure used Gemini 1.5 Pro with few-shot examples to construct p
 ## Data and descriptives
 
 `csv_data/` contains the original political CSVs unchanged: log probabilities in `pol_data.csv` and percentages in `pol_data_percent.csv`. Model subsets are in `gpt_3_5/` (12,924 rows) and `gpt_4/` (13,122 rows).
+
+## Statistical analysis
+
+`statistical_analysis.ipynb` estimates paired agreement and log-odds changes with question-clustered confidence intervals, two-sided tests and Holm correction. It also reports exploratory ideological contrasts, matched model comparisons and logit sensitivity checks. Executed results are saved in `analysis_results/`.
