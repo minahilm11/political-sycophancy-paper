@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "If you use these data or code, please cite this record."
-title: "Political Sycophancy: Data and Analysis Code"
+title: "Code for \"Bowling alone in the AI era. Chatbot sycophancy, hyper-personalised filter bubbles, and the breakdown of deliberation\""
 authors:
   - family-names: Malik
     given-names: Minahil
-version: 1.0.0
-abstract: "Political datasets, query and biography construction, descriptive statistics, and GPT-3.5 and GPT-4 figures accompanying the paper."
+version: 1.1.0
+abstract: "Code and data supporting the measurement of political sycophancy in GPT-3.5 and GPT-4 in “Bowling alone in the AI era. Chatbot sycophancy, hyper-personalised filter bubbles, and the breakdown of deliberation” by Minahil Malik and Mikael Sundström. The analysis compares model agreement with and without politically aligned biographical information."
 repository-code: "https://github.com/minahilm11/political-sycophancy-paper"

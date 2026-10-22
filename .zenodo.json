@@ -1,7 +1,10 @@
 {
-  "title": "Political Sycophancy: Data and Analysis Code",
+  "title": "Code for \"Bowling alone in the AI era. Chatbot sycophancy, hyper-personalised filter bubbles, and the breakdown of deliberation\"",
   "creators": [
-    {"name": "Malik, Minahil"}
+    {
+      "name": "Malik, Minahil"
+    }
   ],
-  "license": "other-closed"
+  "license": "other-closed",
+  "description": "Code and data supporting the measurement of political sycophancy in GPT-3.5 and GPT-4 in “Bowling alone in the AI era. Chatbot sycophancy, hyper-personalised filter bubbles, and the breakdown of deliberation” by Minahil Malik and Mikael Sundström.\n\nThe analysis compares model agreement with and without politically aligned biographical information."
 }
