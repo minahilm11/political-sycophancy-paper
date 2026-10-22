@@ -16,4 +16,4 @@ The original procedure used Gemini 1.5 Pro with few-shot examples to construct p
 
 ## Statistical analysis
 
-`statistical_analysis.ipynb` estimates paired agreement and log-odds changes with question-clustered confidence intervals, two-sided tests and Holm correction. It also reports exploratory ideological contrasts, matched model comparisons and logit sensitivity checks. Executed results are saved in `analysis_results/`.
+`statistical_analysis.ipynb` estimates paired agreement and log-odds changes with question-clustered confidence intervals, two-sided tests and Holm correction. It also reports exploratory ideological contrasts and logit sensitivity checks.
